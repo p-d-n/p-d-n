@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin, Ruby, HTML
+- 🌱 I’m currently learning Kotlin, Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
